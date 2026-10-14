@@ -1,0 +1,105 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+.pnp.json
+
+# Build
+/build
+/dist
+/.next
+/out
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Cache
+/.cache
+/.parcel-cache
+
+# Coverage
+/coverage
+
+# Misc
+*.pem
+*.key
+*.cert
+*.crt
+*.p12
+*.pfx
+*.csr
+*.crs
+*.srl
+
+# Testing
+/cypress/videos/
+/cypress/screenshots/
+
+# TypeScript
+*.tsbuildinfo
+
+# Local Netlify folder
+/.netlify
+
+# Next.js build output
+/.next
+
+# Nuxt.js build / generate output
+/.nuxt
+
+# Vue.js build output
+/dist
+
+# Gatsby
+/.cache
+
+# Storybook
+/storybook-static
+
+# Remix
+/build
+/.cache
+
+# Expo
+/.expo
+
+# Temporary files
+/tmp
+/temp
+
+# Backup files
+*.bak
+*.backup
+
+# Yarn
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# Pnpm
+.pnpm-store/
